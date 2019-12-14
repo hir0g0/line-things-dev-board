@@ -27,7 +27,7 @@ using namespace Adafruit_LittleFS_Namespace;
 // Debug On / Off
 //#define USER_DEBUG
 // BLE Default Advertising UUID
-#define DEFAULT_ADVERTISE_UUID "f2b742dc-35e3-4e55-9def-0ce4a209c552"
+#define DEFAULT_ADVERTISE_UUID "37c44f2a-0847-4e47-bbc6-5b604fdf1c79"
 // BLE Service UUID
 #define DEVBOARD_SERVICE_UUID "f2b742dc-35e3-4e55-9def-0ce4a209c552"
 #define NOTIFY_BOARD_STATE_CHARACTERISTIC_UUID "e90b4b4e-f18a-44f0-8691-b041c7fe57f2"
